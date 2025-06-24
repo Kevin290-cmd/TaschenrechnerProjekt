@@ -10,6 +10,9 @@ das ist mein allerstes Tech Projekt 😄
 Python 3, VS Code, Code-Analyse mit AI-Assistenten
 
 
+
+so sieht er aus>>>
+
 ![image](https://github.com/user-attachments/assets/99249fe7-e9da-4e84-a647-37fe2774f5f9)
 
 
