@@ -6,6 +6,7 @@ das ist mein allerstes Tech Projekt 😄
 + ,- ,* ,: ,% ,+/- , √
 
 **Tools**:
+
 Python 3, VS Code, Code-Analyse mit AI-Assistenten
 
 
