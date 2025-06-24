@@ -5,7 +5,7 @@ das ist mein allerstes Tech Projekt 😄
 **Funktionen**:
 + ,- ,* ,: ,% ,+/- , √
 
-**Tools**
+**Tools**:
 Python 3, VS Code, Code-Analyse mit AI-Assistenten
 
 
@@ -18,5 +18,6 @@ Python 3, VS Code, Code-Analyse mit AI-Assistenten
 
 ***Link zum herunterladen**:
 https://github.com/Kevin290-cmd/TaschenrechnerProjekt/archive/refs/heads/main.zip
+
 
 ***ist nicht was großartiges, aber jeder gute Entwickler hat mal klein angefangen!*
