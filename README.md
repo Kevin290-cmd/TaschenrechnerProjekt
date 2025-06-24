@@ -4,6 +4,7 @@ das ist mein allerstes Tech Projekt 😄
 
 **Funktionen**:
 + ,- ,* ,: ,% ,+/- , √
+
 **Tools**
 Python 3, VS Code, Code-Analyse mit AI-Assistenten
 
